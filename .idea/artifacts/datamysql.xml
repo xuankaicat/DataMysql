@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="datamysql">
+    <output-path>$PROJECT_DIR$/out/artifacts/datamysql</output-path>
+    <root id="root">
+      <element id="archive" name="JdbcTest.DataMysql.main.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/DataMysql/src/main/java/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="JdbcTest.DataMysql.main" />
+      </element>
+    </root>
+  </artifact>
+</component>

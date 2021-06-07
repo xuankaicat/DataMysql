@@ -1,0 +1,4 @@
+rootProject.name = 'DataMysql'
+include 'DataMysql'
+include 'test'
+

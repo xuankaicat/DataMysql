@@ -1,0 +1,9 @@
+# 项目排除路径
+/.gradle/
+/build/
+/build/classes/java/main/
+/DataMysql/build/
+/DataMysql/build/classes/java/main/
+/out/
+/test/build/
+/test/build/classes/java/main/

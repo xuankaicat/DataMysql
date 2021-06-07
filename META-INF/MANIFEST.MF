@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: beansbinding-1.2.1.jar protobuf-java-3.11.4.jar mysql-connec
+ tor-java-8.0.23.jar
+
